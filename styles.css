@@ -3,12 +3,16 @@
     display: flex;
     color: red;
     background-color: aquamarine;
-    border-color: transparent;
+    border-color: rebeccapurple;
 }
 
 .site_nav{
     color:blue;
 }
+.site-nav_color{
+    color: tomato;
+}
+
 
 .hero_img{
     width: 360px;
