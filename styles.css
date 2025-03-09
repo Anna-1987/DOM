@@ -1,0 +1,26 @@
+.js-magic-btn{
+    margin-top: 20px;
+    display: flex;
+    color: red;
+    background-color: aquamarine;
+    border-color: transparent;
+}
+
+.site_nav{
+    color:blue;
+}
+
+.hero_img{
+    width: 360px;
+    height: 100%;
+}
+.hero_title{
+    font-size: 46px;
+    color: brown;
+}
+.js_actions{
+display: flex;
+margin: 4px;
+width: 84px;
+
+}
